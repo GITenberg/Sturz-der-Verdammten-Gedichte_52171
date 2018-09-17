@@ -1,0 +1,31 @@
+_repo: Sturz-der-Verdammten-Gedichte_52171
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Urzidil, Johannes
+    birthdate: 1896
+    deathdate: 1970
+    gutenberg_agent_id: '46706'
+    url: http://www.gutenberg.org/2009/agents/46706
+description: ''
+gutenberg_issued: '2016-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52171'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Sturz der Verdammten -- Der Unerlöste singt zur Nacht -- Der Städter
+  -- Dem Wahnsinnigen -- Dem Entschwindenden -- Beseelung -- Lied des Unsteten --
+  Der Aussichtsturm -- Erneuerung -- Unruhe in tiefer Nacht -- Gebet bei Anbruch des
+  Morgens -- Die Häßliche -- Vision -- Der kranken Frau -- Der Schauspielerin -- Totenklage
+  -- Begegnung -- Abgesang -- Unterweltlicher Psalm -- Kreisende Maske -- Klagelied
+  durch die Sphären -- Klage des Erdgerechten -- Mitternachtskantate an alle Verlassenen
+  -- Verkündigung an die Könige der Tat -- Todesgesang -- Lied des Entsprungenen.
+title: 'Sturz der Verdammten: Gedichte'
+url: http://www.gutenberg.org/ebooks/52171
